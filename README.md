@@ -1,16 +1,14 @@
-## Hi there 👋
+# EschSoftware – Michael Esch
 
-<!--
-**eschsoftware/eschsoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Individuelle B2B-Software und KI-Integration für den Mittelstand. Angular, Go und Firebase.
 
-Here are some ideas to get you started:
+- Website: [eschsoftware.de](https://eschsoftware.de/de/)
+- KI-Integration in bestehende Software: [eschsoftware.de/de/ki-integration](https://eschsoftware.de/de/ki-integration/)
+- Kontakt: [eschsoftware.de/de/contact](https://eschsoftware.de/de/contact/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Open Source
+
+- [pflicht-daten-cockpit](https://github.com/eschsoftware/pflicht-daten-cockpit) – Kostenloses Shopware-6.7-Plugin. Zeigt im Admin, wo GPSR-Herstellerangaben fehlen (Name, Postanschrift, E-Mail). MIT.
+- [prestashop-afterbuy-shopschnittstelle](https://github.com/eschsoftware/prestashop-afterbuy-shopschnittstelle) – Überträgt PrestaShop-Bestellungen automatisch an Afterbuy.
+
+Anpassung oder Wartung für eines der Projekte? [Schreib mir](https://eschsoftware.de/de/contact/).
